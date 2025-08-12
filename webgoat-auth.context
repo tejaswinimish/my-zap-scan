@@ -1,0 +1,7 @@
+<configuration>
+  <name>Webgoat-auth</name>
+  <inscope>true</inscope>
+  <incregexes>
+    <incregex>http://webgoat:8080/WebGoat.*</incregex>
+  </incregexes>
+</configuration>
